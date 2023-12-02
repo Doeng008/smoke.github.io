@@ -1,2 +1,2 @@
 # smoke.github.io
-https://github.com/Doeng008/smoke.github.io
+https://doeng008.github.io/smoke.github.io/
